@@ -27,7 +27,7 @@ import org.slf4j.Logger;
 
 @Mod(RareFind.MOD_ID)
 public class RareFind {
-   // comment just because.
+   // comment just because it is cool and stuff.
     public static final String MOD_ID = "rarefind";
     // Directly reference a slf4j logger
     private static final Logger LOGGER = LogUtils.getLogger();
